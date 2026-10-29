@@ -44,3 +44,9 @@ Le code référence des images externes, notamment Docteur Fitness et Unsplash. 
 ## Droits
 
 Code rendu consultable pour présentation du projet. Aucune licence de réutilisation n’est accordée. Les dépendances restent soumises à leurs propres licences.
+
+## Démonstration vidéo
+
+[Voir la démonstration de TrainWeek](https://www.gabriellecaneval.fr/media/trainweek-demo.mp4) · [Parcours et conditions](docs/demo.md)
+
+La vidéo montre le calendrier, la personnalisation des séries/charge/repos, l’enregistrement d’une séance partielle (1 exercice sur 8), puis les statistiques et une nouvelle pesée. Le profil Alex Démo et tout l’historique sont fictifs. Les écritures dans localStorage ont été vérifiées après les actions. Aucun appel au coach Groq n’est montré.
