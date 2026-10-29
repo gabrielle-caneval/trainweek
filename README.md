@@ -47,6 +47,8 @@ Code rendu consultable pour présentation du projet. Aucune licence de réutilis
 
 ## Démonstration vidéo
 
-[Voir la démonstration de TrainWeek](https://www.gabriellecaneval.fr/media/trainweek-demo.mp4) · [Parcours et conditions](docs/demo.md)
+[![Voir la démonstration TrainWeek](docs/media/trainweek-demo.png)](docs/media/trainweek-demo.mp4)
+
+[Lire ou télécharger la vidéo MP4 (31 secondes)](docs/media/trainweek-demo.mp4) · [Sous-titres français](docs/media/trainweek-demo.fr.vtt) · [Parcours et conditions](docs/demo.md)
 
 La vidéo montre le calendrier, la personnalisation des séries/charge/repos, l’enregistrement d’une séance partielle (1 exercice sur 8), puis les statistiques et une nouvelle pesée. Le profil Alex Démo et tout l’historique sont fictifs. Les écritures dans localStorage ont été vérifiées après les actions. Aucun appel au coach Groq n’est montré.
